@@ -1,2 +1,2 @@
 # DeepLearning2021
-Repository for Deep Leaning Autumn 2021 course. 
+Repository for Deep Learning Autumn 2021 course. 
